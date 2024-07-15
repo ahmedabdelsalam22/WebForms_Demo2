@@ -14,26 +14,6 @@
 
     <main>
 
-      <header>
-			<nav class="navbar navbar-expand-sm navbar-light bg-light">
-				<a href="index.html" class="navbar-brand"><img src="images/Head.jpg"></a>
-				<button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#sitebutton">
-				<span class="navbar-toggler-icon"></span>
-				</button>				
-				<div id="sitebutton" class="collapse navbar-collapse">
-					<ul class="navbar-nav">
-						<li class="nav-item"><a href="#" class="nav-link">الرئيسية</a></li>
-						<li class="nav-item"><a href="#" class="nav-link">من نحن</a></li>
-						<li class="nav-item"><a href="#" class="nav-link">اتصل بنا</a></li>
-					</ul>
-					<ul class="navbar-nav mr-auto">
-						<li class="nav-item"><a href="#" class="nav-link btn btn-info">الاشتراك</a></li>
-						<li class="nav-item"><a href="#" class="nav-link btn btn-info">تسجيل الدخول</a></li>						
-					</ul>
-				</div>
-			</nav>
-		</header>
-
 		<div class="container">
 			<button type="button" class="btn btn-primary" data-toggle="collapse" data-target="#btnlist">البيانات</button>
 			<div class="collapse" id="btnlist">
