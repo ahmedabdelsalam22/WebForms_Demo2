@@ -8,16 +8,16 @@
 		<div class="container">
 			<button type="button" class="btn btn-primary" data-toggle="collapse" data-target="#btnlist">البيانات</button>
 			<div class="collapse" id="btnlist">
-				<ul class="nav">
-					<li class="nav-item btn btn-outline-success"><a href="#" class="nav-link">العملاء</a></li>
-					<li class="nav-item btn btn-outline-success"><a href="#" class="nav-link">الموردون</a></li>
-					<li class="nav-item dropdown btn btn-outline-success" data-toggle="dropdown"><a href="#" class="nav-link dropdown-toggle">الأصناف</a>
-						<div class="dropdown-menu">
-							<a href="#" class="dropdown-item">مجموعات الأصناف</a>
-							<a href="#" class="dropdown-item">الأصناف</a>
-						</div>
-					</li>
-				</ul>
+                <ul class="nav">
+                    <li class="nav-item btn btn-outline-success"><a href="#" class="nav-link">العملاء</a></li>
+                    <li class="nav-item btn btn-outline-success"><a href="#" class="nav-link">الموردون</a></li>
+                    <li class="nav-item dropdown btn btn-outline-success" data-toggle="dropdown"><a href="#" class="nav-link dropdown-toggle">الأصناف</a>
+                        <div class="dropdown-menu">
+                            <a href="#" class="dropdown-item">مجموعات الأصناف</a>
+                            <a href="#" class="dropdown-item">الأصناف</a>
+                        </div>
+                    </li>
+                </ul>
 			
 			</div>
 			<div class="display-4 bg-info centertext mytitle">الصلاح لتكنولوجيا المعلومات</div>
