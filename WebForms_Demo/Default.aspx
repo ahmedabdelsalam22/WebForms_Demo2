@@ -3,15 +3,6 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
-		<title>Elsalah-IT</title>
-		<meta name="viewport" content="width=device-width, initial-scale=1" charset="utf-8">
-		<link rel="icon" type="image/ico" href="images/icon.ico" />
-		<link rel="stylesheet" href="Styles/style.css">
-		<link rel="stylesheet" href="bootstrap/bootstrap.min.css">
-		<script src="bootstrap/jquery.min.js"></script>
-		<script src="bootstrap/popper.min.js"></script>
-		<script src="bootstrap/bootstrap.min.js"></script>
-
     <main>
 
 		<div class="container">
